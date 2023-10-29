@@ -1,0 +1,14 @@
+*** OOP Game App ***
+
+## Description ##
+
+The OOP Game App is a simple, interactive web-based game built using object-oriented programming (OOP) principles. 
+
+## How to Play ##
+
+When you start the game, you'll be presented with a hidden phrase.
+Your goal is to guess the phrase letter by letter.
+You can make guesses using the on-screen keyboard or by typing directly on your physical keyboard.
+If you guess a letter correctly, it will be revealed in the phrase.
+If you guess incorrectly, you'll lose a life.
+The game ends when you've guessed all the letters in the phrase or when you run out of lives.
